@@ -1,8 +1,8 @@
 import { Config } from "./src/config";
 
 export const defaultConfig: Config = {
-  url: "https://nexusbubble.io/",
-  match: "https://nexusbubble.io/**",
-  maxPagesToCrawl: 100,
-  outputFileName: "nexus.json",
+  url: "https://www.jumia.co.ke/",
+  match: "https://www.jumia.co.ke/**",
+  maxPagesToCrawl: 50,
+  outputFileName: "hired.json",
 };
